@@ -24,10 +24,6 @@
   },
   "author": "Ali Gasymov <alik0211alik@gmail.com> (https://gasymov.com/)",
   "repository": "github:alik0211/mtproto-core",
-  "files": [
-    "/envs",
-    "/src"
-  ],
   "main": "./envs/node/index.js",
   "engines": {
     "node": ">=18"
