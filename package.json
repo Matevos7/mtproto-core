@@ -28,6 +28,12 @@
   "engines": {
     "node": ">=18"
   },
+  "files": [
+    "/envs",
+    "/src",
+    "/scheme",
+    "/scripts"
+  ],
   "scripts": {
     "start": "jest --watch",
     "test": "jest",
